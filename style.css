@@ -1,0 +1,51 @@
+.heading
+{
+    border: dashed blue 3px;
+    border-radius: 50px;
+    font-family: cursive;
+    color: wheat;
+}
+
+.inst
+{
+    border: whitesmoke dotted 2px;
+    border-radius: 50px;
+    font-family: sans-serif;
+}
+
+.buttons
+{
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    border: darkgreen solid 4px;
+}
+
+.buttons:hover
+{
+    background-color: darkgreen;
+    border: dashed lightgreen 4px;
+}
+
+.footer
+{
+    text-align: center;
+    bottom: 0;
+    position: fixed;
+    line-height: 3;
+    box-shadow: 32px 5px 5px grey;
+    color: gold;
+    width: 100%;
+}
+
+#study
+{
+    background-color: blueviolet;
+}
+
+canvas 
+{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
